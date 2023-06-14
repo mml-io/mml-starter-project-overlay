@@ -5,7 +5,7 @@ import LogoImage from "~/images/logo.svg";
 const Container = styled.a`
   height: 100%;
   aspect-ratio: 1 / 1;
-  background-image: url("${LogoImage}");
+  background-image: ${`url('${LogoImage}')`};
 `;
 
 const Logo = () => {
