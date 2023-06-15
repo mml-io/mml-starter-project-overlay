@@ -3,8 +3,8 @@ import styled from "@emotion/styled";
 import LogoImage from "~/images/logo.svg";
 
 const Container = styled.a`
-  height: 100%;
-  aspect-ratio: 1 / 1;
+  height: 28px;
+  width: 52px;
   background-image: ${`url('${LogoImage}')`};
 `;
 
