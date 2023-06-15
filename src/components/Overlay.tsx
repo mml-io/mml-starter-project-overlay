@@ -73,8 +73,8 @@ const Overlay = () => {
           <Divider />
 
           <Typography>
-            Your document is running at the following web socket URL. Learn more about{" "}
-            <a target="_blank" href="https://mml.io" rel="noreferrer">
+            Your document is running at the following WebSocket URL. Learn more about{" "}
+            <a target="_blank" href="https://mml.io/docs" rel="noreferrer">
               MML document networking
             </a>
             .
