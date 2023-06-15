@@ -1,6 +1,6 @@
 {
   "name": "@mml-io/mml-starter-project-overlay",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds an overlay to provide easy access to MML documentation and sharing.",
   "main": "dist/index.js",
   "files": [
