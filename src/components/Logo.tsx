@@ -9,7 +9,7 @@ const Container = styled.a`
 `;
 
 const Logo = () => {
-  return <Container href="https://mml.io" />;
+  return <Container href="https://mml.io" target="_blank" />;
 };
 
 export default Logo;
